@@ -1,0 +1,7 @@
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/moviePoster"
+    android:layout_width="120dp"
+    android:layout_height="180dp"
+    android:scaleType="centerCrop"
+    android:layout_marginEnd="8dp"
+    android:background="#333"/>
