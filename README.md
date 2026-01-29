@@ -16,7 +16,8 @@ Premium Mode: Unlocks high-speed, buffer-free streaming using Debrid services.
 
 Free Mode: Seamlessly bridges with Amnis Torrent Player for reliable peer-to-peer streaming if no Debrid service is detected.
 
-Multi-Provider Support: Native API integration for:
+Multi-Provider Support: Secured locally on user device
+Native API integration for:
 
 Real-Debrid
 
